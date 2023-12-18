@@ -3,3 +3,4 @@
 list = ["Onion", "Tomato", "Garlic", "Lemon", "Fruits"]
  
 print(*list, sep=", ")
+
