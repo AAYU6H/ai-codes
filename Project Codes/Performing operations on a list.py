@@ -24,3 +24,4 @@ print("Adding more items to list : ")
 moreFruits = ["Cherry", "Banana", "Coconut"]
 fruits.extend(moreFruits)
 print(fruits)
+
