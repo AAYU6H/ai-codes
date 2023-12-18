@@ -9,3 +9,5 @@ area = length*width
 
 print("Perimeter of the rectangle = ", perimtr)
 print("Area of the rectangle = ", area)
+
+
