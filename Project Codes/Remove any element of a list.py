@@ -3,6 +3,7 @@
 lst = ["Hello", "World", "I", "don't", "eat", "mangoes"]
 print(lst)
 
+print("After removing an element from the list : ")
 del lst[3]
 print(lst)
 
