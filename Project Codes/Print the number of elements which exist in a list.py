@@ -4,3 +4,4 @@ lst = ["Hello", "World", "I", "don't", "eat", "mangoes"]
 print(lst)
 
 print("Length of list = ", len(lst))
+
