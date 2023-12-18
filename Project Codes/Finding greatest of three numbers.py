@@ -4,9 +4,9 @@ x, y, z = input("Enter three values: ").split(",")
 
 if (x >= y) and (x >= z):
    greatest = x
-elif (y >= x) and (y >= z):
+elif (y >= z) and (y >= x):
    greatest = y
-else:
+elif (z >= x) and (z >= y):
    greatest = z
 
 print("Greatest of the three numbers = ", greatest)
