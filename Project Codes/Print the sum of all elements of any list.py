@@ -5,3 +5,4 @@ lst = [13, 123, 33]
 lstSum = sum(lst)
 
 print(lstSum)
+
