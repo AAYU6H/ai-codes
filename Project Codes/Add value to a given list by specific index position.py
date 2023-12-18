@@ -8,4 +8,3 @@ insertValue = "not"
 print("After inserting a new value : ")
 lst.insert(4, insertValue)
 print(*lst)
-
